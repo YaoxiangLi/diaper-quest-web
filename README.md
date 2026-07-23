@@ -6,4 +6,4 @@ are not stored here.
 
 Play at: https://yaoxiangli.github.io/diaper-quest-web/
 
-Current release: **v0.8.6**
+Current release: **v0.8.7**
